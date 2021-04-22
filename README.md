@@ -1,9 +1,18 @@
-## Starter Project
+## Search Gthub User 
+ 
+- ## ✨ Requirements
 
-- css provided (global styles, styled components)
-- folders/files already setup
-- all imports included (warnings)
-- index.js for easier imports
+- Any Operating System (ie. MacOS X, Linux, Windows)
+- Any IDE with installed (ie.Brackets , Atom, VSCode etc)
+- A little knowledge of javascript, React and Reducers.
+
+## 🚀 How to use it
+
+- clone the project to your device.
+- To install dependence open terminal and type npm install.
+- After installation is complete type npm start in terminal
+- Follow the given steps below.
+
 
 ## Styled Components
 
@@ -37,7 +46,7 @@ import { FiUsers, FiUserPlus } from 'react-icons/fi';
 
 ## React Router Dom
 
-version used - "react-router-dom": "^5.2.0",
+
 
 - [react-router-dom - Main Docs](https://reactrouter.com/web/guides/quick-start)
 
