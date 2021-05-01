@@ -2,6 +2,7 @@
  
  ## The project is live on
 https://git-project.netlify.app/login
+![](git.png)
 - ## ✨ Requirements
 
 - Any Operating System (ie. MacOS X, Linux, Windows)
