@@ -23,13 +23,12 @@ export default {
   location: "Himachal Pradesh, India",
   email: null,
   hireable: null,
-  bio:
-    "A self-taught programmer . Currently involved in creating Android and iOS apps using Flutter + Dart  and comp.  programming  in c++.",
+  bio: "CSE student || Love UI designing || Full stack developer || Android developer (flutter) || React || Competitive programmer.",
   twitter_username: null,
-  public_repos: 14,
+  public_repos: 22,
   public_gists: 0,
   followers: 1,
   following: 1,
   created_at: "2019-08-14T15:34:45Z",
-  updated_at: "2021-04-17T14:34:41Z",
+  updated_at: "2021-05-16T07:46:54Z",
 };
