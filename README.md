@@ -1,9 +1,22 @@
-## Starter Project
+## Search Gthub User
 
-- css provided (global styles, styled components)
-- folders/files already setup
-- all imports included (warnings)
-- index.js for easier imports
+## The project is live on
+
+https://git-project.netlify.app/login
+![](git.png)
+
+- ## ✨ Requirements
+
+- Any Operating System (ie. MacOS X, Linux, Windows)
+- Any IDE with installed (ie.Brackets , Atom, VSCode etc)
+- A little knowledge of javascript, React and Reducers.
+
+## 🚀 How to use it
+
+- clone the project to your device.
+- To install dependence open terminal and type npm install.
+- After installation is complete type npm start in terminal
+- Follow the given steps below.
 
 ## Styled Components
 
@@ -31,13 +44,11 @@ export default ReactComponent
 [React Icons - Main Docs](https://react-icons.github.io/react-icons/)
 
 ```jsx
-import { FiUsers, FiUserPlus } from 'react-icons/fi';
-<FiUsers className='nameOfTheClass'> </FiUsers>;
+import { FiUsers, FiUserPlus } from "react-icons/fi";
+<FiUsers className="nameOfTheClass"> </FiUsers>;
 ```
 
 ## React Router Dom
-
-version used - "react-router-dom": "^5.2.0",
 
 - [react-router-dom - Main Docs](https://reactrouter.com/web/guides/quick-start)
 
